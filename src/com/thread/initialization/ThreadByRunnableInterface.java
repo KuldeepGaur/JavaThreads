@@ -1,4 +1,4 @@
-package thread.initialization;
+package com.thread.initialization;
 
 public class ThreadByRunnableInterface implements Runnable {
 

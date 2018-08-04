@@ -1,4 +1,4 @@
-package thread.initialization;
+package com.thread.initialization;
 
 public class ThreadByExtendigThreadClass extends Thread {
 
